@@ -1,12 +1,12 @@
 .App {
-  width: 100vw;
-  height: 100vh;
+  margin-top: 10px;
+  width: 600px;
+  height: 700px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-color: grey;
-
+  margin-left: 400px;
 }
 
 body {
